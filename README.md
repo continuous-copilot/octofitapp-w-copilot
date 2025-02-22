@@ -1,4 +1,4 @@
-# Build a full stack fitness application with GitHub Copilot in 40 minutes
+# Build a full stack fitness application with GitHub Copilot
 
 ![Story of Fitness application](images/cover.jpg)
 
